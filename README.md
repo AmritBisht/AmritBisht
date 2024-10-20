@@ -10,6 +10,7 @@
 - 📫 How to reach me **Amritsinghbist@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+www.linkedin.com/in/amritbisht
 <p align="left">
 </p>
 
