@@ -1,3 +1,5 @@
+![Header](https://github.com/AmritBisht/AmritBisht/blob/main/github-header-image.png)
+
 # Amrit Singh Bisht
 ### AI and Data Science enthusiast | Passionate about ML and GenAI"
 
